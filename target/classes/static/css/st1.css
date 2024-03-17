@@ -1,0 +1,38 @@
+@charset "BIG5";
+#header{
+	background-color: #D8ABC1;
+	width: 50%;
+	height:100px;
+	margin-left: 25%;
+}
+
+#navigater{
+	background-color: #604443;
+	width: 50%;
+	height:30px;
+	margin-left: 25%;
+}
+#nav{
+	color:white;
+	padding-left:50%;
+	
+}
+
+#content{
+	background-color: #FFC2D4;
+	width: 50%;
+	height:600px;
+	margin-left: 25%;
+}
+#con{
+	padding-left:10%;
+	padding-top: 200px;
+}
+
+#footer{
+	background-color: #E95035;
+	width: 50%;
+	height:50px;
+	margin-left: 25%;
+}
+
